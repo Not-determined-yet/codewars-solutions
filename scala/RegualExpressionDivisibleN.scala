@@ -32,6 +32,19 @@ class RegualExpressionDivisibleN {
       if (i > 0) list.remove(i, 1)
     }
 
+    /**
+     * 当消除状态s时，自动机中所有经过s的状态都不存在了
+     * 可以把与s相关的状态划分成三类
+     *    1.假设 q1,q2,...,qn是s的前驱状态,记作集合Q
+     *    2.p1, p2, ..., pm 是s的后继状态，记作集合P
+     *    3. S是从s到s的环，且S∩Q = S∩P = empty
+     * 当删除状态s时删除了所有涉及状态s的边，作为补偿，需要给p_i,q_j集合中引入新的正则表达式
+     * {q_j}S*{p_i} 新边 Arc(q_j, p_i, {q_j}S*{p_i})
+     * 该正则表达式需要与状态q_j -> p_i 上原有的表达式r_ij合并（如果没有，就设原来的表达式为空集)
+     *
+     * @param s 需要被消除的状态
+     * @return 消除s状态后的DFA
+     */
     def reduceState(s: Int): DFA = {
 
       val state = states(s)
