@@ -47,3 +47,4 @@ Ordering by solving timeline.
 4kyu [Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b) 
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/IntPart.scala) 
  
+ 
