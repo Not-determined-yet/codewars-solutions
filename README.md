@@ -37,3 +37,5 @@ Ordering by solving timeline.
 1kyu [Regular Expression for Binary Numbers Divisible by n](https://www.codewars.com/kata/5993c1d917bc97d05d000068) 
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/RegualExpressionDivisibleN.scala)
  
+3kyu [Psychic](https://www.codewars.com/kata/54bd79a7956834e767001357) 
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Psychic.scala)
