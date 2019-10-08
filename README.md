@@ -43,3 +43,7 @@ Ordering by solving timeline.
 6kyu [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) 
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/ValidBraces.scala) 
  see also [here](https://github.com/counter2015/LeetCodeScala/blob/master/src/main/scala/algorithms/medium/string/ValidParentheses.scala)
+ 
+4kyu [Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b) 
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/IntPart.scala) 
+ 
