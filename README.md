@@ -47,4 +47,5 @@ Ordering by solving timeline.
 4kyu [Getting along with Integer Partitions](https://www.codewars.com/kata/55cf3b567fc0e02b0b00000b) 
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/IntPart.scala) 
  
- 
+4kyu [Regular expression for binary numbers divisible by 5](https://www.codewars.com/kata/5647c3858d4acbbe550000ad/solutions/php)
+ - [PHP](https://github.com/Not-determined-yet/codewars-solutions/blob/master/php/Div5.php)
