@@ -12,7 +12,7 @@ object SumOfDivided {
       travel(x.abs, 2).reverse
     }
 
-    val primes = lst.flatMap(factors(_).distinct).distinct.sorted
+    val primes = lst.filter(_.abs != 1).flatMap(factors(_).distinct).distinct.sorted
     primes.map(x => Array(x, lst.filter(_ % x == 0).sum)).map(_.mkString("(", " ", ")")).mkString
   }
 }
