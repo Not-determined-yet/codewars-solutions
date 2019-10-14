@@ -49,3 +49,6 @@ Ordering by solving timeline.
  
 4kyu [Regular expression for binary numbers divisible by 5](https://www.codewars.com/kata/5647c3858d4acbbe550000ad/solutions/php)
  - [PHP](https://github.com/Not-determined-yet/codewars-solutions/blob/master/php/Div5.php)
+ 
+4kyu [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/train/scala)
+  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/SumOfDivided.scala) 
