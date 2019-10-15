@@ -51,4 +51,7 @@ Ordering by solving timeline.
  - [PHP](https://github.com/Not-determined-yet/codewars-solutions/blob/master/php/Div5.php)
  
 4kyu [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/train/scala)
-  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/SumOfDivided.scala) 
+  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/SumOfDivided.scala)
+
+1kyu [Scott Encoding](https://www.codewars.com/kata/59c132fb70a3b7efd3000024) 
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Scott.scala)
