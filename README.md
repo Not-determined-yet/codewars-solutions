@@ -55,3 +55,6 @@ Ordering by solving timeline.
 
 1kyu [Scott Encoding](https://www.codewars.com/kata/59c132fb70a3b7efd3000024) 
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Scott.scala)
+ 
+4kyu [Longest Common Subsequence (Performance version)](https://www.codewars.com/kata/longest-common-subsequence-performance-version)
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Lcs.scala)
