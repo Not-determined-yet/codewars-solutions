@@ -58,3 +58,6 @@ Ordering by solving timeline.
  
 4kyu [Longest Common Subsequence (Performance version)](https://www.codewars.com/kata/longest-common-subsequence-performance-version)
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Lcs.scala)
+ 
+6kyu [Who has the most money?](https://www.codewars.com/kata/who-has-the-most-money/)
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/StudentsRank.scala)
