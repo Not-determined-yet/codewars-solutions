@@ -61,3 +61,6 @@ Ordering by solving timeline.
  
 6kyu [Who has the most money?](https://www.codewars.com/kata/who-has-the-most-money/)
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/StudentsRank.scala)
+ 
+4kyu [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/)
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/HumanTime.scala))
