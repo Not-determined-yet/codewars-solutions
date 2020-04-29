@@ -63,4 +63,7 @@ Ordering by solving timeline.
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/StudentsRank.scala)
  
 4kyu [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/)
- - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/HumanTime.scala))
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/HumanTime.scala)
+
+5kyu [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/RGB.scala)
