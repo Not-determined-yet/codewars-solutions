@@ -65,5 +65,9 @@ Ordering by solving timeline.
 4kyu [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a/)
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/HumanTime.scala)
 
+
+4kyu [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
+ - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/Sudoku.scala)
+ 
 5kyu [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/RGB.scala)
