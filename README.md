@@ -71,3 +71,6 @@ Ordering by solving timeline.
  
 5kyu [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/)
  - [Scala](https://github.com/Not-determined-yet/codewars-solutions/blob/master/scala/RGB.scala)
+
+7kyu [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+ - [Scala](scala/RGB.scala)
