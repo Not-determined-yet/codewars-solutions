@@ -74,3 +74,6 @@ Ordering by solving timeline.
 
 7kyu [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
  - [Scala](scala/RGB.scala)
+
+3kyu [Texas Hold'em Hands](https://www.codewars.com/kata/524c74f855025e2495000262)
+ - [Scala](scala/Poker.scala)
