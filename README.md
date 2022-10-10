@@ -77,3 +77,9 @@ Ordering by solving timeline.
 
 3kyu [Texas Hold'em Hands](https://www.codewars.com/kata/524c74f855025e2495000262)
  - [Scala](scala/Poker.scala)
+
+2kyu [Symbolic differentiation of prefix expressions](https://www.codewars.com/kata/584daf7215ac503d5a0001ae)
+ - [Scala](scala/PrefixDiff.scala)
+
+5kyu [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
+ - [Scala](scala/rot13.scala)
