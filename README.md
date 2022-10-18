@@ -85,3 +85,9 @@ Ordering by solving timeline.
 
 3kyu [Binomial Expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)
  - [Scala](scala/BinomialExpansion.scala)
+
+5kyu [Simple assembler interpreter](https://www.codewars.com/kata/58e24788e24ddee28e000053)
+ - [Scala](scala/SimpleAssembler.scala)
+
+2kyu [Assembler interpreter (part II)](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
+ - [Scala](scala/AssemblerInterpreter.scala)
