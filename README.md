@@ -96,7 +96,7 @@ Ordering by solving timeline.
  - [Scala](scala/MorseDecoder.scala)
 
 4kyu [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457/)
- - [Scala][scala/MorseDecoder.scala)]
+ - [Scala][scala/MorseDecoder.scala]
 
 3kyu [Fabergé Easter Eggs crush test](https://www.codewars.com/kata/54cb771c9b30e8b5250011d4/)
  - [Scala](scala/Faberge.scala)
